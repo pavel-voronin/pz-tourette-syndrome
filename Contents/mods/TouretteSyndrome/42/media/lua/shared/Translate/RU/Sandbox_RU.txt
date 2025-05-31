@@ -1,0 +1,21 @@
+Sandbox_RU = {
+    Sandbox_TouretteSyndrome = "Синдром Туретта",
+
+    Sandbox_TouretteSyndrome_TicChance = "Шанс тика в минуту",
+    Sandbox_TouretteSyndrome_TicChance_tooltip = "Шанс (0–100), что тик произойдёт каждую игровую минуту. Чем выше значение, тем чаще тики.",
+
+    Sandbox_TouretteSyndrome_MinRadius = "Минимальный радиус",
+    Sandbox_TouretteSyndrome_MinRadius_tooltip = "Минимальный радиус (в тайлах) звука, создаваемого тиком.",
+
+    Sandbox_TouretteSyndrome_MaxRadius = "Максимальный радиус",
+    Sandbox_TouretteSyndrome_MaxRadius_tooltip = "Максимальный радиус (в тайлах) звука, создаваемого тиком.",
+
+    Sandbox_TouretteSyndrome_ShoutThreshold = "Порог крика",
+    Sandbox_TouretteSyndrome_ShoutThreshold_tooltip = "Если радиус тика равен или превышает это значение, он считается криком и будет сопровождаться громкими эффектами голоса.",
+
+    Sandbox_TouretteSyndrome_ProfanityFilterEnabled = "Включить фильтр нецензурной лексики",
+    Sandbox_TouretteSyndrome_ProfanityFilterEnabled_tooltip = "Если включено, выкрики не будут содержать матерные или оскорбительные фразы.",
+
+    Sandbox_TouretteSyndrome_ProfanityFilter = "Список запрещённых слов",
+    Sandbox_TouretteSyndrome_ProfanityFilter_tooltip = "Слова, которые нужно исключить, разделённые запятыми.",
+}

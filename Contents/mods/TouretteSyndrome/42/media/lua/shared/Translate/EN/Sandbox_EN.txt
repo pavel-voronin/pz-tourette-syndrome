@@ -1,0 +1,21 @@
+Sandbox_EN = {
+    Sandbox_TouretteSyndrome = "Tourette Syndrome",
+
+    Sandbox_TouretteSyndrome_TicChance = "Tic Chance Per Minute",
+    Sandbox_TouretteSyndrome_TicChance_tooltip = "Chance (0–100) for a tic to occur every minute. Higher means more frequent tics.",
+
+    Sandbox_TouretteSyndrome_MinRadius = "Minimum Radius",
+    Sandbox_TouretteSyndrome_MinRadius_tooltip = "The lowest possible radius (in tiles) for a vocal tic's sound.",
+
+    Sandbox_TouretteSyndrome_MaxRadius = "Maximum Radius",
+    Sandbox_TouretteSyndrome_MaxRadius_tooltip = "The highest possible radius (in tiles) for a vocal tic's sound.",
+
+    Sandbox_TouretteSyndrome_ShoutThreshold = "Shout Threshold",
+    Sandbox_TouretteSyndrome_ShoutThreshold_tooltip = "If a tic's volume radius is equal to or higher than this value, it will be considered a shout and use louder voice effects.",
+
+    Sandbox_TouretteSyndrome_ProfanityFilterEnabled = "Enable Profanity Filter",
+    Sandbox_TouretteSyndrome_ProfanityFilterEnabled_tooltip = "If enabled, prevents tics from including vulgar or offensive phrases.",
+
+    Sandbox_TouretteSyndrome_ProfanityFilter = "Blocked Words List",
+    Sandbox_TouretteSyndrome_ProfanityFilter_tooltip = "Comma-separated bad words.",
+}

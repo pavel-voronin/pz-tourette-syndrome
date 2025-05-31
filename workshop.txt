@@ -1,0 +1,6 @@
+version=1
+id=3490803451
+title=Tourette Syndrome
+description=Adds a negative trait: Tourette Syndrome. Characters with this trait occasionally shout involuntarily, attracting nearby zombies. Includes configurable frequency, intensity, and optional profanity filtering. Immersive, chaotic, and not for the faint of heart.
+tags=Build 42;Hardmode;Realistic;Silly/Fun;Traits
+visibility=public

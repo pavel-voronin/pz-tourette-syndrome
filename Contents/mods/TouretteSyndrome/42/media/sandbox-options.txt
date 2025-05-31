@@ -1,0 +1,57 @@
+VERSION = 1,
+
+option TouretteSyndrome.TicChance
+{
+    type = integer,
+    default = 10,
+    min = 0,
+    max = 100,
+    page = TouretteSyndrome,
+    translation = TouretteSyndrome_TicChance,
+}
+
+option TouretteSyndrome.MinRadius
+{
+    type = integer,
+    default = 7,
+    min = 0,
+    max = 50,
+    page = TouretteSyndrome,
+    translation = TouretteSyndrome_MinRadius,
+}
+
+option TouretteSyndrome.MaxRadius
+{
+    type = integer,
+    default = 30,
+    min = 0,
+    max = 50,
+    page = TouretteSyndrome,
+    translation = TouretteSyndrome_MaxRadius,
+}
+
+option TouretteSyndrome.ShoutThreshold
+{
+    type = integer,
+    default = 20,
+    min = 0,
+    max = 50,
+    page = TouretteSyndrome,
+    translation = TouretteSyndrome_ShoutThreshold,
+}
+
+option TouretteSyndrome.ProfanityFilterEnabled
+{
+    type = boolean,
+    default = false,
+    page = TouretteSyndrome,
+    translation = TouretteSyndrome_ProfanityFilterEnabled,
+}
+
+option TouretteSyndrome.ProfanityFilter
+{
+    type = string,
+    default = racoon,
+    page = TouretteSyndrome,
+    translation = TouretteSyndrome_ProfanityFilter,
+}
