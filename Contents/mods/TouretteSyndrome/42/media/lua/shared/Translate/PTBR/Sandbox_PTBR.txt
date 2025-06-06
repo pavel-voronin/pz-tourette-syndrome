@@ -1,0 +1,23 @@
+Sandbox_PTBR = {
+    Sandbox_TouretteSyndrome = "Síndrome de Tourette",
+
+    Sandbox_TouretteSyndrome_TicChance = "Chance de tique por minuto",
+    Sandbox_TouretteSyndrome_TicChance_tooltip = "Chance (0–100) de um tique ocorrer a cada minuto. Maior significa mais tiques por minuto.",
+
+    Sandbox_TouretteSyndrome_MinRadius = "Alcance Mínimo",
+    Sandbox_TouretteSyndrome_MinRadius_tooltip = "O menor alcance possível (em quadrados) para o som de um tique.",
+
+    Sandbox_TouretteSyndrome_MaxRadius = "Alcance Máximo",
+    Sandbox_TouretteSyndrome_MaxRadius_tooltip = "O menor alcance possível (em quadrados) para o som de um tique.",
+
+    Sandbox_TouretteSyndrome_ShoutThreshold = "Limiar de Grito",
+    Sandbox_TouretteSyndrome_ShoutThreshold_tooltip = "Se o alcance de um tique for igual ou maior que esse valor, ele será considerado um grito e usará efeitos de voz mais altos.",
+
+
+    Sandbox_TouretteSyndrome_ProfanityFilterEnabled = "Habilitar filtro de profanidades",
+    Sandbox_TouretteSyndrome_ProfanityFilterEnabled_tooltip = "Se habilitado, irá prevenir os tiques de incluírem frases vulgares ou ofensivas.",
+
+
+    Sandbox_TouretteSyndrome_ProfanityFilter = "Lista de palavras bloqueadas",
+    Sandbox_TouretteSyndrome_ProfanityFilter_tooltip = "Palavrões separados por vírgula.",
+}
